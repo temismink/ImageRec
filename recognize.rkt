@@ -1,11 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-abbr-reader.ss" "lang")((modname recognize) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;;
-;; ***************************************************
-;; Starter Code
-;; ***************************************************
-;;
 
 (require "templates.rkt")
 
@@ -31,7 +26,7 @@
 
 
 ;; 3a)
-;; These are helper functions. See assignment for design recipe requirements.
+;; These are helper functions. 
 
 ;;get-x returns x value of a point
 ;;get-x: (listof Num) -> (listof Num) ;requires list of len 2
